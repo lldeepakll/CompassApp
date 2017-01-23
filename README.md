@@ -29,5 +29,7 @@ onResume Method : <br>
     
     you will find full source code here : <br>
   https://github.com/lldeepakll/CompassApp/blob/master/app/src/main/java/com/chrono/compassapp/MainActivity.java<br>
+  https://github.com/lldeepakll/CompassApp/blob/master/app/src/main/res/layout/activity_main.xml<br>
+  
   
   ![device-2016-03-31-190308](https://cloud.githubusercontent.com/assets/17099115/14177329/64a9f856-f773-11e5-8782-789bf201955a.png)
